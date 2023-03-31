@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/makem/Documents/GitHub/SurvivalProjectLV2/SurvivalProjectLV2/Content/Maps/LV2.umap",
+				"C:/Users/makem/Documents/GitHub/SurvivalProjectLV2/SurvivalProjectLV2/Content/GameMode/StefanoLV2.uasset",
+				"C:/Users/makem/Documents/GitHub/SurvivalProjectLV2/SurvivalProjectLV2/Content/BluePrints/Characters/StefanoPlayer.uasset"
+			]
+		}
+	]
+}
